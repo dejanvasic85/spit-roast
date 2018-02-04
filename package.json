@@ -1,7 +1,7 @@
 {
   "name": "spit-roast",
   "version": "1.0.0",
-  "description": "",
+  "description": "Engine with middleware to handle events in an aws-lambda fashion ",
   "main": "dist/index.js",
   "scripts": {
     "flowcheck": "./node_modules/.bin/flow",
@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/dejanvasic85/spit-roast.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["lambda", "azure", "functions", "kinesis", "aws", "middleware"],
+  "author": "Dejan Vasic",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dejanvasic85/spit-roast/issues"
