@@ -2,7 +2,7 @@
   "name": "spit-roast",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/spit.js",
+  "main": "dist/index.js",
   "scripts": {
     "flowcheck": "./node_modules/.bin/flow",
     "babelify": "./node_modules/.bin/babel lib --out-dir dist",
